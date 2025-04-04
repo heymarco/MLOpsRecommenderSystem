@@ -1,0 +1,7 @@
+*.csv
+.google_application_credentials.json
+.env
+/artifacts
+*/__pycache__/*
+.idea
+*.log
